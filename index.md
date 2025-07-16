@@ -56,6 +56,11 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [5 Powerful React Component Libraries Built on ShadCN/UI](https://neerajlovecyber.com/news/best-react-shadcn-component-libraries)
+- [This Hidden HTML Hack Turns Google Gemini Into a Phishing Weapon](https://neerajlovecyber.com/news/google-gemini-hidden-injection-vulnerability)
+- [SMTP Enumeration and Pentesting Guide for Email Server Security](https://neerajlovecyber.com/smtp-enumeration-and-pentesting-guide)
+- [Massive Browser Hijack: 2.3M Chrome &amp; Edge Users Hit by Trojan Extensions](https://neerajlovecyber.com/news/massive-browser-hijack-chrome-edge-trojan-extensions)
+- [EU’s Push to Ditch Microsoft: A Boost for Linux or a Risky Gamble?](https://neerajlovecyber.com/news/eu-microsoft-to-linux-open-source-transition)
 <!-- BLOG-POST-LIST:END -->
 
 
