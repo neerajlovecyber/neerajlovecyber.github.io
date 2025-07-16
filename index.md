@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Header Image" src="https://github.com/neerajlovecyber/neerajlovecyber/blob/master/Githubheader.png" />
+  <img alt="Header Image" src="https://raw.githubusercontent.com/neerajlovecyber/neerajlovecyber/master/Githubheader.png" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=38&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Neeraj+Singh+(@NeerajLoveCyber);I+am+a+Cyber+Security+Student)](https://git.io/typing-svg)
@@ -34,7 +34,7 @@
 # 🔐 Certificates: 
 
 </summary>
-<img src="https://github.com/neerajlovecyber/neerajlovecyber/blob/43f580820936689b649f0ac17d0a541434995ea9/image.png" width="400" height="300" />
+<img src="https://raw.githubusercontent.com/neerajlovecyber/neerajlovecyber/43f580820936689b649f0ac17d0a541434995ea9/image.png" width="400" height="300" />
 </details>
 
 <details>
