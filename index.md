@@ -56,6 +56,7 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [Critical NVIDIA Flaw Exposes AI Cloud Services](https://neerajlovecyber.com/news/critical-nvidia-container-toolkit-flaw-exposes-ai-clouds)
 - [5 Powerful React Component Libraries Built on ShadCN/UI](https://neerajlovecyber.com/news/best-react-shadcn-component-libraries)
 - [This Hidden HTML Hack Turns Google Gemini Into a Phishing Weapon](https://neerajlovecyber.com/news/google-gemini-hidden-injection-vulnerability)
 - [SMTP Enumeration and Pentesting Guide for Email Server Security](https://neerajlovecyber.com/smtp-enumeration-and-pentesting-guide)
