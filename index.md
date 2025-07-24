@@ -56,6 +56,7 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [Linux Find Command Cheatsheet](https://neerajlovecyber.com/find-command-cheatsheet)
 - [Critical NVIDIA Flaw Exposes AI Cloud Services](https://neerajlovecyber.com/news/critical-nvidia-container-toolkit-flaw-exposes-ai-clouds)
 - [5 Powerful React Component Libraries Built on ShadCN/UI](https://neerajlovecyber.com/news/best-react-shadcn-component-libraries)
 - [This Hidden HTML Hack Turns Google Gemini Into a Phishing Weapon](https://neerajlovecyber.com/news/google-gemini-hidden-injection-vulnerability)
