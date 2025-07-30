@@ -56,6 +56,7 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [Toptal GitHub Hacked: 10 Malicious npm Packages Hit 5,000 Downloads](https://neerajlovecyber.com/news/toptal-github-npm-supply-chain-attack-2025)
 - [Linux Find Command Cheatsheet](https://neerajlovecyber.com/find-command-cheatsheet)
 - [Critical NVIDIA Flaw Exposes AI Cloud Services](https://neerajlovecyber.com/news/critical-nvidia-container-toolkit-flaw-exposes-ai-clouds)
 - [5 Powerful React Component Libraries Built on ShadCN/UI](https://neerajlovecyber.com/news/best-react-shadcn-component-libraries)
