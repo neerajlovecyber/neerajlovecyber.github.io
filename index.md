@@ -56,6 +56,8 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [Google Patches Two Actively Exploited Qualcomm Zero-Days](https://neerajlovecyber.com/news/google-patches-exploited-qualcomm-zero-days)
+- [AI-Driven TikTok Scam Uses Fake Shops to Spread Malware](https://neerajlovecyber.com/news/ai-driven-tiktok-scam-uses-fake-shops-to-spread-malware)
 - [Hackers Plant Covert Malware in Major Telecom Networks](https://neerajlovecyber.com/news/hackers-plant-covert-malware-telecom-networks)
 - [Akira Ransomware Hits SonicWall VPNs in Zero-Day Attack](https://neerajlovecyber.com/news/akira-ransomware-hits-sonicwall-vpn-zero-day-attack)
 - [Toptal GitHub Hacked: 10 Malicious npm Packages Hit 5,000 Downloads](https://neerajlovecyber.com/news/toptal-github-npm-supply-chain-attack-2025)
