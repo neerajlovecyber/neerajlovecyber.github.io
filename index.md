@@ -56,6 +56,8 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [Trend Micro Apex One Flaws Actively Exploited](https://neerajlovecyber.com/news/trend-micro-apex-one-flaws-actively-exploited)
+- [ClickFix Malware Uses Fake CAPTCHAs for Infections](https://neerajlovecyber.com/news/clickfix-malware-fake-captcha-infections)
 - [Google Patches Two Actively Exploited Qualcomm Zero-Days](https://neerajlovecyber.com/news/google-patches-exploited-qualcomm-zero-days)
 - [AI-Driven TikTok Scam Uses Fake Shops to Spread Malware](https://neerajlovecyber.com/news/ai-driven-tiktok-scam-uses-fake-shops-to-spread-malware)
 - [Hackers Plant Covert Malware in Major Telecom Networks](https://neerajlovecyber.com/news/hackers-plant-covert-malware-telecom-networks)
