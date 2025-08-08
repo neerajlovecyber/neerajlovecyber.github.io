@@ -56,6 +56,7 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [ECScape Flaw in Amazon ECS Allows Credential Theft](https://neerajlovecyber.com/news/ecscape-flaw-amazon-ecs-credential-theft)
 - [Trend Micro Apex One Flaws Actively Exploited](https://neerajlovecyber.com/news/trend-micro-apex-one-flaws-actively-exploited)
 - [ClickFix Malware Uses Fake CAPTCHAs for Infections](https://neerajlovecyber.com/news/clickfix-malware-fake-captcha-infections)
 - [Google Patches Two Actively Exploited Qualcomm Zero-Days](https://neerajlovecyber.com/news/google-patches-exploited-qualcomm-zero-days)
