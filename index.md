@@ -56,6 +56,8 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [PeaZip 10.6 Enhances Archive Handling and Speed](https://neerajlovecyber.com/news/peazip-10-6-enhances-archive-handling)
+- [Brazil Hit by AI Phishing and Efimer Crypto Trojan](https://neerajlovecyber.com/news/brazil-hit-by-ai-phishing-efimer-crypto-trojan)
 - [ECScape Flaw in Amazon ECS Allows Credential Theft](https://neerajlovecyber.com/news/ecscape-flaw-amazon-ecs-credential-theft)
 - [Trend Micro Apex One Flaws Actively Exploited](https://neerajlovecyber.com/news/trend-micro-apex-one-flaws-actively-exploited)
 - [ClickFix Malware Uses Fake CAPTCHAs for Infections](https://neerajlovecyber.com/news/clickfix-malware-fake-captcha-infections)
