@@ -56,6 +56,7 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [Debian 13 Trixie Released What You Need to Know](https://neerajlovecyber.com/news/debian-13-trixie-released-what-you-need-to-know)
 - [PeaZip 10.6 Enhances Archive Handling and Speed](https://neerajlovecyber.com/news/peazip-10-6-enhances-archive-handling)
 - [Brazil Hit by AI Phishing and Efimer Crypto Trojan](https://neerajlovecyber.com/news/brazil-hit-by-ai-phishing-efimer-crypto-trojan)
 - [ECScape Flaw in Amazon ECS Allows Credential Theft](https://neerajlovecyber.com/news/ecscape-flaw-amazon-ecs-credential-theft)
