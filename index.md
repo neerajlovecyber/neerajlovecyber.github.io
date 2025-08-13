@@ -56,6 +56,7 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [Erlang OTP SSH Exploits Target OT Firewalls](https://neerajlovecyber.com/news/erlang-otp-ssh-exploits-target-ot-firewalls)
 - [Win-DDoS Flaws Turn Domain Controllers into Botnets](https://neerajlovecyber.com/news/win-ddos-flaws-turn-domain-controllers-botnets)
 - [Linux Kernel 6.17 RC1 Released by Linus Torvalds](https://neerajlovecyber.com/news/linux-kernel-6-17-rc1-released)
 - [Debian 13 Trixie Released What You Need to Know](https://neerajlovecyber.com/news/debian-13-trixie-released-what-you-need-to-know)
