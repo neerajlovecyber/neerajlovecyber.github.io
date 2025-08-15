@@ -56,7 +56,9 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [KDE Gear 25.08 Released with Key Improvements](https://neerajlovecyber.com/news/kde-gear-25-08-open-source-suite-improvements)
 - [NVIDIA 580 Driver Boosts Linux Wayland Support](https://neerajlovecyber.com/news/nvidia-580-driver-boosts-linux-wayland-support)
+- [Zoom &amp; Xerox Patch Critical RCE &amp; Privilege Flaws](https://neerajlovecyber.com/news/zoom-xerox-patch-critical-rce-privilege-flaws)
 - [Erlang OTP SSH Exploits Target OT Firewalls](https://neerajlovecyber.com/news/erlang-otp-ssh-exploits-target-ot-firewalls)
 - [Win-DDoS Flaws Turn Domain Controllers into Botnets](https://neerajlovecyber.com/news/win-ddos-flaws-turn-domain-controllers-botnets)
 - [Linux Kernel 6.17 RC1 Released by Linus Torvalds](https://neerajlovecyber.com/news/linux-kernel-6-17-rc1-released)
