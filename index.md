@@ -56,6 +56,8 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [UAT-7237 Targets Taiwan Servers with Custom Hacking Tools](https://neerajlovecyber.com/news/uat-7237-targets-taiwan-servers-custom-tools)
+- [VirtualBox 7.2 Adds Linux Kernel 6.17 Support](https://neerajlovecyber.com/news/virtualbox-7-2-adds-linux-kernel-6-17-support)
 - [KDE Gear 25.08 Released with Key Improvements](https://neerajlovecyber.com/news/kde-gear-25-08-open-source-suite-improvements)
 - [NVIDIA 580 Driver Boosts Linux Wayland Support](https://neerajlovecyber.com/news/nvidia-580-driver-boosts-linux-wayland-support)
 - [Zoom &amp; Xerox Patch Critical RCE &amp; Privilege Flaws](https://neerajlovecyber.com/news/zoom-xerox-patch-critical-rce-privilege-flaws)
