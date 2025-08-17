@@ -56,6 +56,7 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [GNOME 49 Beta Arrives with Major Security Upgrades](https://neerajlovecyber.com/news/gnome-49-beta-security-upgrades)
 - [UAT-7237 Targets Taiwan Servers with Custom Hacking Tools](https://neerajlovecyber.com/news/uat-7237-targets-taiwan-servers-custom-tools)
 - [VirtualBox 7.2 Adds Linux Kernel 6.17 Support](https://neerajlovecyber.com/news/virtualbox-7-2-adds-linux-kernel-6-17-support)
 - [KDE Gear 25.08 Released with Key Improvements](https://neerajlovecyber.com/news/kde-gear-25-08-open-source-suite-improvements)
