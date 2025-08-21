@@ -56,6 +56,7 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [North Korea Hits Diplomats with GitHub-Based Attacks](https://neerajlovecyber.com/news/north-korea-hits-diplomats-with-github-attacks)
 - [GNOME 49 Beta Arrives with Major Security Upgrades](https://neerajlovecyber.com/news/gnome-49-beta-security-upgrades)
 - [UAT-7237 Targets Taiwan Servers with Custom Hacking Tools](https://neerajlovecyber.com/news/uat-7237-targets-taiwan-servers-custom-tools)
 - [VirtualBox 7.2 Adds Linux Kernel 6.17 Support](https://neerajlovecyber.com/news/virtualbox-7-2-adds-linux-kernel-6-17-support)
