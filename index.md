@@ -56,6 +56,7 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [Critical Fluent Bit Flaws Allow Cloud Infrastructure Takeover](https://neerajlovecyber.com/news/critical-fluent-bit-flaws-allow-cloud-takeover)
 - [NPM Supply Chain Attack Hits 20 Popular Packages](https://neerajlovecyber.com/news/npm-supply-chain-attack-hits-20-popular-packages)
 - [WhatsApp Patches Zero-Click Exploit on iOS and macOS](https://neerajlovecyber.com/news/whatsapp-patches-zero-click-exploit-ios-macos)
 - [North Korea Hits Diplomats with GitHub-Based Attacks](https://neerajlovecyber.com/news/north-korea-hits-diplomats-with-github-attacks)
