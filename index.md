@@ -56,6 +56,7 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [Automated FortiGate SSO Attacks Exploit Firewalls](https://neerajlovecyber.com/news/automated-fortigate-sso-attacks-exploit-firewalls)
 - [Nomani Investment Scam Surges With AI Deepfakes](https://neerajlovecyber.com/news/nomani-investment-scam-ai-deepfakes)
 - [Critical Fluent Bit Flaws Allow Cloud Infrastructure Takeover](https://neerajlovecyber.com/news/critical-fluent-bit-flaws-allow-cloud-takeover)
 - [NPM Supply Chain Attack Hits 20 Popular Packages](https://neerajlovecyber.com/news/npm-supply-chain-attack-hits-20-popular-packages)
