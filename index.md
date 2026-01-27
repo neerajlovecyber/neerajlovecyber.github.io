@@ -56,6 +56,7 @@
 
 # 📝 Blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [How to Get 12 Testers for 14 Days Free &lpar;Pass Google Play Closed Testing&rpar;](https://neerajlovecyber.com/how-to-get-12-testers-for-14-days-free)
 - [Automated FortiGate SSO Attacks Exploit Firewalls](https://neerajlovecyber.com/news/automated-fortigate-sso-attacks-exploit-firewalls)
 - [Nomani Investment Scam Surges With AI Deepfakes](https://neerajlovecyber.com/news/nomani-investment-scam-ai-deepfakes)
 - [Critical Fluent Bit Flaws Allow Cloud Infrastructure Takeover](https://neerajlovecyber.com/news/critical-fluent-bit-flaws-allow-cloud-takeover)
